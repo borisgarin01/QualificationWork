@@ -1,4 +1,4 @@
-﻿using FinalQualifyingWork.Models;
+﻿using FinalQualification.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
