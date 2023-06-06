@@ -1,0 +1,12 @@
+﻿@model CriticTextReview
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="CriticsTextReviews" asp-action="Create" method="post">
+        <input class="align-self-baseline" asp-for="CriticId" /><br />
+        <input class="align-self-baseline" asp-for="GameId" /><br />
+        <input class="align-self-baseline" asp-for="Text" /><br />
+        <input class="align-self-baseline" type="submit" value="Add" />
+    </form>
+</body>
+</html>

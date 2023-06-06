@@ -1,0 +1,15 @@
+﻿@model CriticTextReview
+<!DOCTYPE html>
+<html>
+<body>
+    <a asp-action="Create">Create new</a>
+    <form class="align-self-baseline" asp-controller="CriticsTextReviews" asp-action="Update" method="post">
+        <input class="align-self-baseline" asp-for="Text" value="@Model.Text" /><br />
+        <input class="align-self-baseline" asp-for="GameId" value="@Model.GameId" /><br />
+        <input class="align-self-baseline" asp-for="CriticId" value="@Model.CriticId" /><br />
+        <a class="align-self-baseline" asp-action="Get" asp-route-id="@Model.Id">Get</a>
+        <a class="align-self-baseline" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+        <button class="align-self-baseline" type="submit" value="Update" />
+    </form>
+</body>
+</html>
