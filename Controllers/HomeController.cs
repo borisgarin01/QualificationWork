@@ -1,8 +1,8 @@
-﻿using FinalQualification.Models;
+﻿using FinalQualifyingWork.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace FinalQualification.Controllers
+namespace FinalQualifyingWork.Controllers
 {
     public class HomeController : Controller
     {
