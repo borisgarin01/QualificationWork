@@ -1,5 +1,5 @@
-﻿using FinalQualificationWork.Data.Repositories.Interfaces.Derived;
-using FinalQualificationWork.Models.DataModels;
+﻿using FinalQualification.Data.Repositories.Interfaces.Derived;
+using FinalQualification.Models.DataModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FinalQualifyingWork.Controllers
