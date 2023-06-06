@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Game>
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Games" asp-action="Index" method="get">
+        <a asp-action="Create">Add new game</a>
+        @foreach (Game game in Model)
+        {
+            <div class="align-self-baseline">
+                <h4 class="align-self-baseline">@game.Name</h4><br />
+                <h4 class="align-self-baseline">@game.AverageMark</h4><br />
+                <h4 class="align-self-baseline">@game.Developer</h4><br />
+                <h4 class="align-self-baseline">@game.Publisher</h4><br />
+                <h4 class="align-self-baseline">@game.Localization</h4><br />
+                <h4 class="align-self-baseline">@game.ReleaseDate</h4><br />
+                <h4 class="align-self-baseline">@game.Description</h4><br />
+                <a class="align-self-baseline" asp-action="Delete" asp-route-id="@game.Id">Delete</a>
+                <a class="align-self-baseline" asp-action="Get" asp-route-id="@game.Id">Get</a>
+                <a class="align-self-baseline" asp-action="Update" asp-route-id="@game.Id">Update</a>
+            </div>
+        }
+    </form>
+</body>
+</html>
