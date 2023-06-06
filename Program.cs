@@ -1,7 +1,11 @@
+using FinalQualification.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<DataContext>(options => options.UseSqlite("Data Source=FinalQualification.db"));
 
 var app = builder.Build();
 
