@@ -1,0 +1,20 @@
+﻿@model IEnumerable<GamerReview>
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="GamersReviews" asp-action="Index" method="get">
+        <a asp-action="Create">Add new gamer review</a>
+        @foreach (GamerReview gamerReview in Model)
+        {
+            <div class="align-self-baseline">
+                <h4 class="align-self-baseline">@gamerReview.Text</h4><br />
+                <h4 class="align-self-baseline">@gamerReview.GameId</h4><br />
+                <h4 class="align-self-baseline">@gamerReview.GamerId</h4><br />
+                <a class="align-self-baseline" asp-action="Delete" asp-route-id="@gamerReview.Id">Delete</a>
+                <a class="align-self-baseline" asp-action="Get" asp-route-id="@gamerReview.Id">Get</a>
+                <a class="align-self-baseline" asp-action="Update" asp-route-id="@gamerReview.Id">Update</a>
+            </div>
+        }
+    </form>
+</body>
+</html>
