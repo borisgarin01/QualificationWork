@@ -1,0 +1,13 @@
+﻿@model Critic
+<!DOCTYPE html>
+<html>
+<body>
+    <a asp-action="Create">Create new</a>
+    <form class="align-self-baseline" asp-controller="Critics" asp-action="Get" method="get">
+        <h4 class="align-self-baseline">@Model.Login</h4><br />
+        <h4 class="align-self-baseline">@Model.Email</h4><br />
+        <a class="align-self-baseline" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+        <a class="align-self-baseline" asp-action="Update" asp-route-id="@Model.Id">Update</a>
+    </form>
+</body>
+</html>

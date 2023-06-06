@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Critic>
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Critics" asp-action="Index" method="get">
+        <a asp-action="Create">Add new critic</a>
+        @foreach(Critic critic in Model)
+        {
+            <div class="align-self-baseline">
+                <h4 class="align-self-baseline">@critic.Login</h4><br />
+                <h4 class="align-self-baseline">@critic.Email</h4><br />
+                <a class="align-self-baseline" asp-action="Delete" asp-route-id="@critic.Id">Delete</a>
+                <a class="align-self-baseline" asp-action="Get" asp-route-id="@critic.Id">Get</a>
+                <a class="align-self-baseline" asp-action="Update" asp-route-id="@critic.Id">Update</a>
+            </div>
+        }
+    </form>
+</body>
+</html>

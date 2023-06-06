@@ -1,0 +1,11 @@
+﻿@model Critic
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Critics" asp-action="Delete" method="post">
+        <h4 class="align-self-baseline">@Model.Login</h4><br />
+        <h4 class="align-self-baseline">@Model.Email</h4><br />
+        <input class="align-self-baseline" type="submit" value="Delete" />
+    </form>
+</body>
+</html>
