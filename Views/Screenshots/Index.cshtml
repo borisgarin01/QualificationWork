@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Screenshot>
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Screenshots" asp-action="Index" method="get">
+        <a asp-action="Create">Add new screenshot</a>
+        @foreach (Screenshot screenshot in Model)
+        {
+            <div class="align-self-baseline">
+                <h4 class="align-self-baseline">@screenshot.Url</h4><br />
+                <h4 class="align-self-baseline">@screenshot.GameId</h4><br />
+                <a class="align-self-baseline" asp-action="Delete" asp-route-id="@screenshot.Id">Delete</a>
+                <a class="align-self-baseline" asp-action="Get" asp-route-id="@screenshot.Id">Get</a>
+                <a class="align-self-baseline" asp-action="Update" asp-route-id="@screenshot.Id">Update</a>
+            </div>
+        }
+    </form>
+</body>
+</html>
