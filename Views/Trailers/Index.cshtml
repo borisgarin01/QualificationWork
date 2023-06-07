@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Trailer>
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Trailers" asp-action="Index" method="get">
+        <a asp-action="Create">Add new trailer</a>
+        @foreach (Trailer trailer in Model)
+        {
+            <div class="align-self-baseline">
+                <h4 class="align-self-baseline">@trailer.Url</h4><br />
+                <h4 class="align-self-baseline">@trailer.GameId</h4><br />
+                <a class="align-self-baseline" asp-action="Delete" asp-route-id="@trailer.Id">Delete</a>
+                <a class="align-self-baseline" asp-action="Get" asp-route-id="@trailer.Id">Get</a>
+                <a class="align-self-baseline" asp-action="Update" asp-route-id="@trailer.Id">Update</a>
+            </div>
+        }
+    </form>
+</body>
+</html>

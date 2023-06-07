@@ -1,0 +1,8 @@
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.csproj.AssemblyReference.cache
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.AssemblyInfoInputs.cache
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.AssemblyInfo.cs
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.csproj.CoreCompileInputs.cache
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.RazorAssemblyInfo.cache
+C:\Websites\FinalQualificationWork\FinalQualificationWork\obj\Debug\net6.0\FinalQualificationWork.RazorAssemblyInfo.cs

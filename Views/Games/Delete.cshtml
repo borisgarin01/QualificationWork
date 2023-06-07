@@ -1,0 +1,16 @@
+﻿@model Game
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Games" asp-action="Delete" method="post">
+        <h4 class="align-self-baseline">@Model.Name</h4><br />
+        <h4 class="align-self-baseline">@Model.AverageMark</h4><br />
+        <h4 class="align-self-baseline">@Model.Developer</h4><br />
+        <h4 class="align-self-baseline">@Model.Publisher</h4><br />
+        <h4 class="align-self-baseline">@Model.Localization</h4><br />
+        <h4 class="align-self-baseline">@Model.ReleaseDate</h4><br />
+        <h4 class="align-self-baseline">@Model.Description</h4><br />
+        <input class="align-self-baseline" type="submit" value="Delete" />
+    </form>
+</body>
+</html>

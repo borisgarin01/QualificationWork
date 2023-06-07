@@ -1,0 +1,11 @@
+﻿@model Screenshot
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Screenshots" asp-action="Delete" method="post">
+        <h4 class="align-self-baseline">@Model.Url</h4><br />
+        <h4 class="align-self-baseline">@Model.GameId</h4><br />
+        <input class="align-self-baseline" type="submit" value="Delete" />
+    </form>
+</body>
+</html>

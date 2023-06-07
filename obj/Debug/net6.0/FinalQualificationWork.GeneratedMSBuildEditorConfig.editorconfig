@@ -1,0 +1,213 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FinalQualificationWork
+build_property.RootNamespace = FinalQualificationWork
+build_property.ProjectDir = C:\Websites\FinalQualificationWork\FinalQualificationWork\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Websites\FinalQualificationWork\FinalQualificationWork
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsTextReviews/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1RleHRSZXZpZXdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsTextReviews/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1RleHRSZXZpZXdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsTextReviews/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1RleHRSZXZpZXdzXEdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsTextReviews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1RleHRSZXZpZXdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsTextReviews/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1RleHRSZXZpZXdzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsVideoReviews/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1ZpZGVvUmV2aWV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsVideoReviews/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1ZpZGVvUmV2aWV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsVideoReviews/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1ZpZGVvUmV2aWV3c1xHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsVideoReviews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1ZpZGVvUmV2aWV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/CriticsVideoReviews/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1ZpZGVvUmV2aWV3c1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Critics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Critics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Critics/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1xHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Critics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Critics/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JpdGljc1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/GamersReviews/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzUmV2aWV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/GamersReviews/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzUmV2aWV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/GamersReviews/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzUmV2aWV3c1xHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/GamersReviews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzUmV2aWV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/GamersReviews/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzUmV2aWV3c1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Gamers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Gamers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Gamers/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzXEdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Gamers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Gamers/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXJzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Games/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Games/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Games/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Games/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Games/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Screenshots/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyZWVuc2hvdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Screenshots/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyZWVuc2hvdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Screenshots/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyZWVuc2hvdHNcR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Screenshots/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyZWVuc2hvdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Screenshots/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyZWVuc2hvdHNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Trailers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Trailers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Trailers/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxlcnNcR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Trailers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Trailers/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaWxlcnNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Websites/FinalQualificationWork/FinalQualificationWork/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jlubp7z225

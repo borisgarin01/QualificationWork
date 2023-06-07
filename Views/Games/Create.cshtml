@@ -1,0 +1,16 @@
+﻿@model Game
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="align-self-baseline" asp-controller="Games" asp-action="Create" method="post">
+        <input class="align-self-baseline" asp-for="Name" /><br />
+        <input class="align-self-baseline" asp-for="AverageMark" /><br />
+        <input class="align-self-baseline" asp-for="Developer" /><br />
+        <input class="align-self-baseline" asp-for="Publisher" /><br />
+        <input class="align-self-baseline" asp-for="Localization" /><br />
+        <input type="date" class="align-self-baseline" asp-for="ReleaseDate" /><br />
+        <input class="align-self-baseline" asp-for="Description" /><br />
+        <input class="align-self-baseline" type="submit" value="Add" />
+    </form>
+</body>
+</html>
